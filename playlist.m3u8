@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="toonami-aftermath-east" tvg-name="Toonami Aftermath East" group-title="Toonami Aftermath",Toonami Aftermath East
+https://api.toonamiaftermath.com/est/playlist.m3u8
+#EXTINF:-1 tvg-id="toonami-aftermath-west" tvg-name="Toonami Aftermath West" group-title="Toonami Aftermath",Toonami Aftermath West
+https://api.toonamiaftermath.com/pst/playlist.m3u8
+#EXTINF:-1 tvg-id="toonami-aftermath-movies" tvg-name="Toonami Aftermath Movies" group-title="Toonami Aftermath",Toonami Aftermath Movies
+https://api.toonamiaftermath.com/movies/playlist.m3u8
+#EXTINF:-1 tvg-id="toonami-aftermath-radio" tvg-name="Toonami Aftermath Radio" group-title="Toonami Aftermath",Toonami Aftermath Radio
+https://api.toonamiaftermath.com/radio/playlist.m3u8
