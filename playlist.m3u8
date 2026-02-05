@@ -3,6 +3,12 @@
 https://api.toonamiaftermath.com/est/playlist.m3u8
 #EXTINF:-1 tvg-id="toonami-aftermath-west" tvg-name="Toonami West" group-title="Toonami Aftermath",Toonami West
 https://api.toonamiaftermath.com/pst/playlist.m3u8
+#EXTINF:-1 tvg-id="snick-east" tvg-name="Snick East" group-title="Toonami Aftermath",Snick East
+https://api.toonamiaftermath.com/snick-est/playlist.m3u8
+#EXTINF:-1 tvg-id="snick-west" tvg-name="Snick West" group-title="Toonami Aftermath",Snick West
+https://api.toonamiaftermath.com/snick-pst/playlist.m3u8
+#EXTINF:-1 tvg-id="mtv97" tvg-name="MTV97" group-title="Toonami Aftermath",MTV97
+https://api.toonamiaftermath.com/mtv97/playlist.m3u8
 #EXTINF:-1 tvg-id="toonami-aftermath-movies" tvg-name="Toonami Movies" group-title="Toonami Aftermath",Toonami Movies
 https://api.toonamiaftermath.com/movies/playlist.m3u8
 #EXTINF:-1 tvg-id="toonami-aftermath-radio" tvg-name="Toonami Radio" group-title="Toonami Aftermath",Toonami Radio
